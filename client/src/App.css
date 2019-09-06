@@ -1,0 +1,36 @@
+.App {
+    width: 50%;
+    margin: auto;
+}
+
+.navBar {
+    border-bottom: 2px solid gray;
+    margin-bottom: 30px;
+}
+
+.deleteBtn {
+    background-color: red;
+    color: white;
+    padding: 5px 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+
+input {
+    width: 50%;
+    border: 2px solid black;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+.submitBtn {
+    background-color: green;
+    color: white;
+    padding: 10px 15px;
+    margin-top: 20px;
+}
+
+ul {
+    font-family: cursive;
+    font-weight: 600;
+}
