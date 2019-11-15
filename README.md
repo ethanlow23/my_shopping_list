@@ -1,4 +1,4 @@
-## MY SHOPPING LIST
+## MY-SHOPPING-LIST
 
 Basic shopping list application built utilizing the MERN stack
 
